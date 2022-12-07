@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="718f06e8-b1fc-42c4-878d-965a30e2cf25" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../HybridFramework_kmanoj/testCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HybridFramework_kmanoj/testCases/test_1login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PageObjects/pages/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PageObjects/pages/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PageObjects/testresources/pom.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../PageObjects/testresources/pom.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonTutorials/.idea/pythonTutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonTutorials/.idea/pythonTutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonTutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonTutorials/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/029693744/PycharmProjects/pythonTutorials&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/029693744/PycharmProjects/SeleniumPython_module_code&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
