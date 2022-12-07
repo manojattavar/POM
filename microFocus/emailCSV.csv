@@ -1,0 +1,7 @@
+identity_id,name,title,dept,identity_status,risk_score,email
+1000,Aaron,Identity Architect,R&D,Active,20,aaron@idarch.com
+1001,Abby,Admin Assistant,Facilities,Inactive,42,abby@adarch
+1002,Allison,Manager,Payroll,Active,75,adarch.com
+1003,Andrew,Identity Admin,R&D,Inactive,30,andrew@idarch.com
+1004,Angie,Admin Assistant,Payroll,Inactive,0,angie@adarch
+1006,Anne,Acct Executive,Facilities,Active,50,anne@idarch.com

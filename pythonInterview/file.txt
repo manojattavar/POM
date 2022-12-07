@@ -1,0 +1,7 @@
+	Good experience in writing XPath to locate web elements
+	Worked on Cross browser testing, browsers like Chrome, Firefox, Edge etc using WebDriver
+	Experience in building project using Jenkins
+	5+ years of experience in working with Hadoop, Big data Technologies
+	5+ years of exp in working with programming languages - Python, PySpark, Scala, Spark, Spark SQL
+	5+ years of hands-on experience in Data Analysis, Data Validation, Data Cleansing, Data Verification and identifying data mismatch.
+Hands on experience in designing Big data Test Automation Frameworks using Python, PySpark, Scala, Spark, Spark SQL and Azure Data
